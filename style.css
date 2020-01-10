@@ -6,3 +6,15 @@ body {
 h1 {
     color: #800000
   }
+
+button {
+    background-color: #800000
+    color: #FFF8DC
+
+  }
+
+img {
+      width: 40 px
+      height: auto
+
+  }
