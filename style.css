@@ -1,20 +1,26 @@
 
 body {
-  background-color: #FFF8DC
+  background-color: #FFF8DC;
 }
 
 h1 {
-    color: #800000
+    color: #800000;
+    text-align: center;
   }
 
-button {
-    background-color: #800000
-    color: #FFF8DC
+.button {
+    background-color: #800000;
+    color: #FFF8DC;
+    margin-top: "6px";
+    margin-left: "6px";
+    margin-right: "6 px";
+    margin-bottom: "6 px";
 
   }
 
-img {
-      width: 40 px
-      height: auto
+# head.image {
+      display: block;
+      margin left: auto;
+      margin right: auto;
 
   }
