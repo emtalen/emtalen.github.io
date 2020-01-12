@@ -6,21 +6,102 @@ body {
 h1 {
     color: #800000;
     text-align: center;
+    font-size: 60px;
+    font-family: Impact;
   }
 
-.button {
+button {
     background-color: #800000;
-    color: #FFF8DC;
-    margin-top: "6px";
-    margin-left: "6px";
-    margin-right: "6 px";
-    margin-bottom: "6 px";
+    text-align: center;
+    padding: 15px 40px;
+    font-size: 24px;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 45px;
+    font-family: Impact;
 
   }
 
-# head.image {
+.Homebutton {
+      background-color: #800000;
+      text-align: center;
+      padding: 15px 40px;
+      font-size: 24px;
+      border-radius: 12px;
       display: block;
-      margin left: auto;
-      margin right: auto;
+      margin: auto;
+      font-family: Impact;   
+      
 
   }
+
+p {
+    text-align: center;
+    font-size: 40px;
+    font-family: Impact;
+
+} 
+
+a {
+  text-align: center;
+  color: #FFF8DC;
+  text-decoration: none;
+
+
+} 
+
+
+.image {
+      height: 800px;
+      border-radius: 25px;
+      display: block;
+      margin-right: auto;
+      margin-left: auto;
+  }
+
+.click-img {
+      margin: auto;
+      display: block;
+      margin-bottom: 30px;
+  
+  
+  }  
+#Facebook {
+    height: 280px;
+   
+
+
+}  
+#linkedin {
+  height: 250px;
+ 
+
+
+}  
+#Daniel {
+    transform: rotate(90deg);
+    height: 300px;
+    display: inline-block;
+    margin-top: 100px;
+
+  }  
+
+
+ 
+#martini {
+    transform: rotate(90deg);
+    height: 300px;
+    display: inline-block;
+    margin-top: 100px; 
+
+
+
+}  
+
+#rooftop {
+  transform: rotate(90deg);
+  height: 300px;
+  display: inline-block;
+  margin-top: 100px; 
+
+} 
