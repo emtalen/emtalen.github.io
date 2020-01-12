@@ -30,7 +30,9 @@ button {
       border-radius: 12px;
       display: block;
       margin: auto;
-      font-family: Impact;   
+      font-family: Impact;  
+      margin-top: 45px; 
+      margin-bottom: 45px;
       
 
   }
@@ -49,6 +51,20 @@ a {
 
 
 } 
+
+div {
+  font-size: 30px;
+  font-family: Impact; 
+  border: 5px solid black;
+  width: 60%;
+  height: auto;
+  display: block;
+  margin: auto;
+  margin-top: 100px;
+  padding: 10px;
+
+
+}
 
 
 .image {
@@ -84,8 +100,8 @@ a {
     display: inline-block;
     margin-top: 100px;
 
-  }  
 
+  }  
 
  
 #martini {
@@ -103,5 +119,9 @@ a {
   height: 300px;
   display: inline-block;
   margin-top: 100px; 
+
+} 
+.caption {
+  font-size: 15px;
 
 } 
